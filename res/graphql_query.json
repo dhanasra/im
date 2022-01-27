@@ -1,0 +1,3 @@
+{
+  "add_user":"mutation($user: UserInput){\n  addUser(user: $user)\n}"
+}
